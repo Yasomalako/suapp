@@ -1,2 +1,2 @@
-# suapp
+# stuapp
 student app
